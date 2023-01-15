@@ -8,8 +8,6 @@ const koaBody = require("koa-body");
 const categories = require("./data/categories");
 const items = require("./data/products");
 
-// const categories = JSON.parse(fs.readFileSync('./data/categories.json'));
-// const items = JSON.parse(fs.readFileSync('./data/products.json'));
 const topSaleIds = [66, 65, 73];
 const moreCount = 6;
 
