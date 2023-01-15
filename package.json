@@ -8,8 +8,8 @@
   },
   "scripts": {
     "prestart": "npm install",
-    "start": "forever server.js",
-    "watch": "forever -w server.js"
+    "start": "forever index.js",
+    "watch": "forever -w index.js"
   },
   "author": "",
   "license": "ISC",
