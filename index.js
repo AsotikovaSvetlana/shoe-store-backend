@@ -1,5 +1,4 @@
 const http = require("http");
-const fs = require("fs");
 const Koa = require("koa");
 const Router = require("koa-router");
 const cors = require("koa2-cors");

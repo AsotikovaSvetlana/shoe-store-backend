@@ -1,4 +1,4 @@
-export default categories = [
+module.exports = [
   {
     id: 12,
     title: "Мужская обувь",

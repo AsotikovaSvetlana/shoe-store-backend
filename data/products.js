@@ -1,4 +1,4 @@
-export default items = [
+module.exports = [
   {
     id: 20,
     category: 13,
